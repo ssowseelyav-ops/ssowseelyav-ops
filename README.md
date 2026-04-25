@@ -70,12 +70,16 @@
 
 ## 📊 Stats
 
-
-
-
-[![](https://github-readme-stats.vercel.app/api?username=ssowseelyav-ops&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssowseelyav-ops&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
-
-
+<table width="100%">
+  <tr>
+    <td width="52%" align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=ssowseelyav-ops&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+    <td width="48%" align="right">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssowseelyav-ops&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
 
 ---
@@ -94,5 +98,7 @@
 ---
 
 
+<p align="center">
+  <i>README available on <a href="[https://github.com/ssowseelyav-ops/ssowseelyav-ops/blob/main/README.md](https://github.com/ssowseelyav-ops/ssowseelyav-ops/blob/main/README.md)">my profile page.</a></i>
+</p>
 
- _README available on [my profile page.](https://github.com/ssowseelyav-ops/ssowseelyav-ops)_
