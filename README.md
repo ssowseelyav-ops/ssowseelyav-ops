@@ -72,15 +72,14 @@
 
 <table width="100%">
   <tr>
-    <td width="52%" align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=ssowseelyav-ops&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=ssowseelyav-ops&show_icons=true&theme=tokyonight" alt="Stats" />
     </td>
-    <td width="48%" align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssowseelyav-ops&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ssowseelyav-ops&layout=compact&theme=tokyonight" alt="Langs" />
     </td>
   </tr>
 </table>
-
 
 ---
 
